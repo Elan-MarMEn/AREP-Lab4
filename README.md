@@ -1,6 +1,6 @@
-# NanoSpark (own implementation)
+# NanoSpring (own implementation)
 
-This project focuses on the implementation and use of a framework implement by the author that simulates Spark to web development, using Sockets,Handlers and Buffer readers to handle a request and show and existent response or value whether html, js,css or lambda functions.  
+This project focuses on the implementation and use of a framework implement by the author that simulates Spring to web development, using Sockets,Handlers and Buffer readers to handle a request by annotation interface for mapping the request and show and existent response or value whether html, js,css or lambda functions.  
 
 ## Continuous Integration
 
@@ -9,7 +9,7 @@ This project focuses on the implementation and use of a framework implement by t
 Open your comand console or cmd and write or copy the comand below.
 
 ```
-git clone https://github.com/Elan-MarMEn/AREPNanoSaprk.git
+git clone https://github.com/Elan-MarMEn/AREP-Lab4.git
 ```
 
 ### Prerequisites
