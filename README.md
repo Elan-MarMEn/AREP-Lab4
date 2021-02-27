@@ -5,7 +5,7 @@ This project focuses on the implementation and use of a framework implement by t
 ## Continuous Integration
 [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/Elan-MarMEn/AREP-Lab4)
 
-
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/212329acd9124de1810d09187a7bf779)](https://www.codacy.com/gh/Elan-MarMEn/AREP-Lab4/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Elan-MarMEn/AREP-Lab4&amp;utm_campaign=Badge_Grade)
 
 [![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://areplab4marin.herokuapp.com/Arep/index.html)
 
