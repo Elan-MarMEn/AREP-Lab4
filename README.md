@@ -49,7 +49,7 @@ For static files:
 
 For lambda functions:
 ```
-.../Apps/customers
+.../nspapp/customers
 ```
 the rest of the request will be access to a default response. 
 
