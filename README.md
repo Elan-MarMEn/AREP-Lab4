@@ -3,6 +3,11 @@
 This project focuses on the implementation and use of a framework implement by the author that simulates Spring to web development, using Sockets,Handlers and Buffer readers to handle a request by annotation interface for mapping the request and show and existent response or value whether html, js,css or lambda functions.  
 
 ## Continuous Integration
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/Elan-MarMEn/AREP-Lab4)
+
+
+
+[![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://areplab4marin.herokuapp.com/Arep/index.html)
 
 ## Getting Started
 
